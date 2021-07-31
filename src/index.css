@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+@layer base {
+    body {
+        @apply bg-[#fdfcff] font-sans box-border relative transition duration-500 delay-300 ease-in
+    }
+}
+
+@layer components {
+    .btn {
+        @apply py-2 px-4 bg-[#8a6eff] font-medium text-white rounded-md text-sm sm:text-base
+    }
+
+
+    .btn2 {
+        @apply text-[#8a6eff] font-medium text-sm sm:text-base
+    }
+
+    .logo {
+        @apply font-bold text-lg text-white sm:text-2xl sm:text-[#1e2472]
+    }
+
+    .cardIcon {
+        @apply w-[35px] h-[35px] p-2 text-[#1e2472] bg-[#ebe7ff] rounded-md
+    }
+
+    .icon {
+        @apply h-[30px] w-[30px] text-white sm:hidden
+    }
+
+    .home {
+        @apply border-2 border-gray-800
+    }
+
+    .tablet {
+        @apply relative top-0 right-0 space-x-6 text-left w-auto space-y-0 pt-0 font-medium bg-[#fdfcff]
+    }
+
+    .card {
+        @apply bg-white shadow-2xl border-0 p-4 space-y-5 mt-7 w-[300px] rounded-md h-[303px] 
+    }
+
+    .input {
+        @apply outline-none border-0 text-gray-500 w-[250px] h-[50px] p-3 rounded-md
+    }
+
+    .collab {
+        @apply font-medium text-[#1e2472] text-lg
+    }
+
+}
