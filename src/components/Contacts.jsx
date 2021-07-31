@@ -3,9 +3,9 @@ import React from 'react'
 function Contacts() {
     return (
         <div className='bg-[#a28aff] text-white md:flex items-center my-16 py-8 md:space-x-6 px-11'>
-            <img src='/img/contact.svg' alt="" className="w-[400px] h-[400px] md:w-[500px] md:h-[500px]" />
+            <img data-aos="fade-right" src='/img/contact.svg' alt="" className="w-[400px] h-[400px] md:w-[500px] md:h-[500px]" />
 
-            <div className="flex flex-wrap space-y-6">
+            <div data-aos="fade-left" className="flex flex-wrap space-y-6">
                 <h1 className="font-bold text-3xl">Get Started With Free Trial</h1>
 
                 <p className="text-base font-normal sm:font-medium">

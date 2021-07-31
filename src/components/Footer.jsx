@@ -23,7 +23,7 @@ function Footer() {
     return (
         <div className="space-y-6 my-16 py-11 px-7 flex flex-col justify-between">
 
-            <div className="flex flex-col md:flex-row space-y-9 items-center justify-between">
+            <div data-aos="zoom-out" className="flex flex-col md:flex-row space-y-9 items-center justify-between">
                 {
                     state.map((stat) => (
                         <div key={stat.id} className="space-y-5 text-left">
@@ -37,7 +37,7 @@ function Footer() {
                 }
             </div>
             
-            <div className="self-center justify-self-center flex flex-col md:flex-row items-center space-x-6">
+            <div data-aos="zoom-out" className="self-center justify-self-center flex flex-col md:flex-row items-center space-x-6">
                 <a href="#home" className="text-[#1e2472] text-lg font-bold md:text-xl">Omnifesto.</a>
                 <p className="text-sm text-gray-500">
                     @2020 Omnifesto.

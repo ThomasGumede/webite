@@ -6,7 +6,7 @@ import {FaFileSignature} from 'react-icons/fa'
 function Card() {
     return (
         <>
-        <div className='card'>
+        <div data-aos="fade-left" data-aos-delay='30' className='card'>
             <div className="w-max">
                 <RiFileCopyFill className='cardIcon'  />
             </div>
@@ -18,7 +18,7 @@ function Card() {
             <p className="text-[#8a6eff] font-medium text-sm sm:text-base mt-5">Learn How</p>
         </div>
 
-        <div className='card'>
+        <div data-aos="fade-left" data-aos-delay='80'  className='card'>
             <div className="w-max">
                 <TiTick className='cardIcon'  />
             </div>
@@ -30,7 +30,7 @@ function Card() {
             <p className="text-[#8a6eff] font-medium text-sm sm:text-base mt-5">Learn How</p>
         </div>
 
-        <div className='card'>
+        <div data-aos="fade-left" data-aos-delay='120' className='card'>
             <div className="w-max">
                 <FaFileSignature className='cardIcon'  />
             </div>

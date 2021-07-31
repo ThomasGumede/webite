@@ -2,7 +2,7 @@ import React from 'react'
 
 function CardFans({descr, img, fullname, work}) {
     return (
-        <div className='space-y-4 p-4 w-[300px] h-[300px] bg-white shadow-2xl'>
+        <div data-aos="zoom-out" className='space-y-4 p-4 w-[300px] h-[300px] bg-white shadow-2xl'>
             <p className="text-base text-gray-500 font-normal sm:font-medium">
                 {`"${descr}"`}            
             </p>

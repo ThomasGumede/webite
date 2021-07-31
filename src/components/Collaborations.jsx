@@ -32,10 +32,10 @@ function Collaborations() {
 
             {states.map((state) => (
             <div key={state.id} className={`md:flex ${state.flex} justify-between items-center space-y-9 my-16`}>
-                <img src={`${state.img}`} alt="" className="w-[400px] h-[400px] md:w-[500px] md:h-[500px]" />
+                <img data-aos="fade-right" src={`${state.img}`} alt="" className="w-[400px] h-[400px] md:w-[500px] md:h-[500px]" />
 
                 
-                <div className="flex flex-col space-y-4">
+                <div data-aos="fade-left" className="flex flex-col space-y-4">
 
                     <h2 className='bg-[#ebe7ff] py-2 px-4 font-semibold text-base w-max text-[#8a6eff] rounded-md'>{state.name}</h2>
 
