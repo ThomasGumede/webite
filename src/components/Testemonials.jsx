@@ -30,7 +30,7 @@ function Testemonials() {
                 
                 <h2 data-aos="fade-right" className='bg-[#ebe7ff] py-2 px-4 font-semibold text-base w-max text-[#8a6eff] rounded-md'>Testemonials</h2>
 
-                <div data-aos="fade-right"data-aos="fade-right" className="space-y-3 md:w-[300px]">
+                <div data-aos="fade-right" className="space-y-3 md:w-[300px]">
                     <h1 className="text-[#1e2472] font-bold text-3xl">See What They Say About Us</h1>
                     <p className="text-base text-gray-500 font-normal sm:font-medium">
                         Create custom application forms for rach role, allowing you.
