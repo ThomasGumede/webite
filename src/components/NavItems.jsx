@@ -1,7 +1,11 @@
-export default function NavItem({ href, isActive, children }) {
+const NavItems = ({href, children}) => {
     return (
-        <a href={href} className="block text-lg text-white font-medium hover:text-[#1e2472] sm:inline-block sm:text-[#8a6eff]">
-          {children}
-        </a>
+        <li className='mx-5'>
+            <a href={href} className='relative py-9 text-xl text-gray-900 md:text-lg md:py-2 before:hov hover:before:hov2'>
+                {children}
+            </a>
+        </li>
     )
-  }
+}
+
+export default NavItems

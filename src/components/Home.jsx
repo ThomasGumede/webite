@@ -1,28 +1,34 @@
-function Home() {
+import DishItems from "./DishItems"
 
-
+const Home = () => {
     return (
-        <div  className="flex flex-col space-y-5 items-center w-full mt-16 md:flex-row md:justify-between  md:space-y-0">
-
-            <div data-aos="fade-right" className="block text-center space-y-4 md:text-left md:space-y-8 md:w-[500px]">
-                <h5 className="text-sm text-[#686e7c]">Creativity And Collaborations</h5>
-
-                <h1 className="text-xl xsm:text-2xl sm:text-3xl md:text-4xl text-[#1e2472] font-bold">Work Remotely 
-                    From Your Home Or Places
+        <div className='relative space-y-6 w-full my-11 sm:flex items-center sm:justify-between'>
+            <div className="text-start space-y-5 w-[300px] xsm:w- md:w-[500px]">
+                <h1 className="font-bold font-sans2 text-3xl md:text-5xl">
+                    We Serve The Food You Love
                 </h1>
-
-                <p className="text-base text-gray-500 font-normal sm:font-medium">
-                    We curate the best digital jobs for those 
-                    looking to start their telecommunication career
+                <p className="text-sm text-gray-400 md:text-base">
+                    This is type of restaurant which typically serves 
+                    food and drinks in addition to light 
+                    refreshments such as baked goods or snacks
                 </p>
-
-                <div className="flex space-x-6 items-center justify-between md:justify-start">
-                    <a href="#home" className="btn">Get Started</a>
-                    <a href="#home" className="btn2">Book a demo</a>
+                <div className="space-x-6 md:space-y-10">
+                    <a href="#home" className='btn'>Explore Food</a>
+                    <a href="#home" className='btn2'>Search</a>
                 </div>
             </div>
+            
+                <img src="/Dishes/dish3.png" alt="" className='sm:w-[300px] sm:h-[300px] md:w-auto md:h-auto'/>
 
-            <img data-aos="fade-left" src="/img/Remote team-amico.svg" alt="" className="w-[400px] h-[400px] md:w-[550px] md:h-[550px]" />
+                <div className="space-y-1 hidden md:block">
+                    <DishItems />
+                    <DishItems />
+                    <DishItems />
+                    <DishItems />
+
+                </div>
+            
+            
         </div>
     )
 }
