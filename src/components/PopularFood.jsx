@@ -9,7 +9,7 @@ const PopularFood = ({state}) => {
     SwiperCore.use([Navigation])
 
     return (
-        <div className='space-y-6 w-full my-16 md:my-32 home'>
+        <div className='space-y-6 w-full my-16 md:my-32'>
             <div className="flex items-center justify-between">
                 <h2>Popular Dishes</h2>
                 <div className="flex items-center space-x-6">

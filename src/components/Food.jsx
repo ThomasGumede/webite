@@ -19,7 +19,7 @@ function Food({state}) {
  
 
     return (
-        <div className="flex flex-col space-y-6 items-center my-16 home">
+        <div className="flex flex-col space-y-6 items-center my-16">
             <h2 className="justify-self-center self-center">
                 Our Regular Menu Pack
             </h2>

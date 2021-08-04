@@ -1,6 +1,6 @@
 const Card = ({name, src, descr, price, href}) => {
     return (
-        <div className='block w-[250px] bg-white cursor-pointer rounded-2xl text-center h-[300px] space-y-4 hover:shadow-xl p-2'>
+        <div className='block w-[250px] m-2 bg-white cursor-pointer rounded-2xl text-center h-[300px] space-y-4 hover:shadow-xl p-2'>
             <div className="flex flex-col items-center">
                 <img src={`${src}`} alt="" className='w-[120px] h-[120px]'/>
             </div>

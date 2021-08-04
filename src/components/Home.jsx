@@ -2,7 +2,7 @@ import DishItems from "./DishItems"
 
 const Home = ({state}) => {
     return (
-        <div className='relative space-y-6 w-full home sm:flex items-center sm:justify-between my-16 md:my-16'>
+        <div className='relative space-y-6 w-full sm:flex items-center sm:justify-between my-16 md:my-16'>
             <div className="text-start space-y-5 md:w-[500px]">
                 <h1 className="font-bold font-sans2 text-3xl text-gray-900 md:text-5xl">
                     We Serve The Food You Love
