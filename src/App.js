@@ -6,6 +6,7 @@ import Food from "./components/Food";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import PopularFood from "./components/PopularFood";
+import Reservation from './components/Reservation';
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
       <PopularFood state={state}/>
       <About state={state}/>
       <Food state={state}/>
+      <Reservation />
     </div>
   );
 }

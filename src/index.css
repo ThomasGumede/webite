@@ -10,7 +10,7 @@
         @apply bg-[#fffcf7] font-sans box-border w-full 
     }
     h2 {
-        @apply text-gray-800 font-bold font-sans2 text-3xl md:text-5xl
+        @apply font-bold font-sans2 text-3xl text-gray-900 md:text-5xl
     }
 }
 
