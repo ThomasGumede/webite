@@ -57,8 +57,8 @@ const PopularFood = ({state}) => {
                      state.map((stat) => (
                         
                             stat.data.map((da) => (
-                                <SwiperSlide key={stat.id}>
-                                    <Card key={da.id} name={da.name} descr={da.descr} src={da.src} price={da.price} href={da.name}/>
+                                <SwiperSlide key={da.id}>
+                                    <Card name={da.name} descr={da.descr} src={da.src} price={da.price} href={da.name}/>
                                 </SwiperSlide>
                             ))
                          

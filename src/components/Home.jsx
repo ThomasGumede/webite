@@ -21,6 +21,7 @@ const Home = ({state}) => {
                 <img src="/Dishes/d3.png" alt="" className='sm:w-[300px] sm:h-[300px] md:w-auto md:h-auto'/>
 
                 <div className="space-y-1 hidden md:block">
+                    {/* Map through state props and get name, image uri and id */}
                     {
                         state.map((stat) => (
                             <DishItems key={stat.id} name={stat.name} src={stat.src} href={state.name}/>

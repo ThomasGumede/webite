@@ -11,13 +11,13 @@ function App() {
 
   const [state, setState] = useState([])
 
+  // getting data from json file located on public folder
   useEffect( () => {
     axios.get('Data.json').then((response) => {
       setState(response.data)
     })
   }, [])
 
-  console.log(state)
   
   return (
     <div className='mx-4 sm:mx-11 md:mx-16'>
