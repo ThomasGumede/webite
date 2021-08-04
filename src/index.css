@@ -7,18 +7,25 @@
 
 @layer base {
     body {
-        @apply bg-[#fffcf7] font-sans box-border w-full
+        @apply bg-[#fffcf7] font-sans box-border w-full 
+    }
+    h2 {
+        @apply text-gray-800 font-bold font-sans2 text-3xl md:text-5xl
     }
 }
 
 @layer components {
     .btn {
-        @apply py-2 px-4 bg-[#f3bc58] font-medium text-gray-800 rounded-full text-sm
+        @apply py-2 px-6 bg-[#f3bc58] font-medium text-gray-800 rounded-full text-base w-max transition-all duration-500 ease-in hover:border-2 hover:border-[#f3bc58] hover:bg-transparent
+    }
+
+    .foodnavbtn {
+        @apply py-2 px-6 rounded-full md:text-lg border-2 border-[#f3bc58] transition-all duration-500 ease-in hover:border-0 hover:bg-[#f3bc58]
     }
 
 
     .btn2 {
-        @apply text-gray-800 rounded-full text-sm border-2 border-[#f3bc58] py-2 px-4
+        @apply text-gray-800 rounded-full text-base border-2 border-[#f3bc58] py-2 px-4 transition-all duration-500 ease-in hover:bg-[#f3bc58]
     }
 
     .logo {
@@ -27,6 +34,10 @@
 
     .navIcon {
         @apply flex items-center justify-center w-[40px] h-[40px] text-gray-700 text-2xl home rounded-full transition-all duration-500 ease-in
+    }
+
+    .btnIcon {
+        @apply hidden sm:flex items-center justify-center w-[50px] h-[50px] text-gray-700 text-2xl home rounded-full hover:bg-[#f3bc58] transition-all duration-500 ease-in
     }
 
     .home {
