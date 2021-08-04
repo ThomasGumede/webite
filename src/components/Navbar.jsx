@@ -12,6 +12,10 @@ function Navbar() {
         show === false ? setShow(true) : setShow(false)
     }
 
+    window.onscroll = () => {
+        setShow(false)
+    }
+
     return (
         <nav className="w-full bg-[#fffcf7] z-50 py-4 transition duration-1000">
             <div className="flex justify-between w-full items-center m-auto">

@@ -2,8 +2,8 @@ import DishItems from "./DishItems"
 
 const About = ({state}) => {
     return (
-        <div className='space-y-6 my-14 flex flex-col sm:flex-row space-x-8 justify-between items-center sm:space-y-0 md:m-20'>
-            <img src="/Salads/Chef.jpg" alt="" className='w-[300px] h-[300px] md:w-[500px] md:h-[500px] rounded-full' />
+        <div className='space-y-6 my-16 md:my-20 home flex flex-col sm:flex-row space-x-8 justify-between items-center sm:space-y-0 lg:m-20'>
+            <img src="/Salads/Chef.jpg" alt="" className='w-[300px] h-[300px] md:w-[500px] md:h-[500px] rounded-2xl sm:rounded-full' />
             <div className="space-y-6 sm:w-[300px] md:w-[500px]">
                 <h2>
                     We are more than multiple Services

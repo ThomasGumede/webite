@@ -16,11 +16,12 @@ function App() {
     axios.get('Data.json').then((response) => {
       setState(response.data)
     })
-  }, [])
+  }, [ ])
+
 
   
   return (
-    <div className='mx-4 sm:mx-11 md:mx-16'>
+    <div className='mx-4 sm:mx-9 md:mx-12'>
       <Navbar />
       <Home state={state}/>
       <PopularFood state={state}/>
