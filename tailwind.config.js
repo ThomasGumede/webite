@@ -12,7 +12,7 @@ module.exports = {
       'sans2': ['Righteous', 'Poppins', 'sans-serif']
      },
      screens: {
-      'xsm': '280px',
+      'xsm': '520px',
 
       'sm': '768px',
       // => @media (min-width: 640px) { ... }

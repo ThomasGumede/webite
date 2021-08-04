@@ -6,7 +6,7 @@
             {
                 "id": 1,
                 "name": "Beef Solo",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam,.",
                 "price": "R52.99",
                 "src": "/Burgers/b1.png"
 
@@ -14,7 +14,7 @@
             {
                 "id": 2,
                 "name": "Beef Double",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R60.99",
                 "src": "/Burgers/b2.png"
 
@@ -22,7 +22,7 @@
             {
                 "id": 3,
                 "name": "Pounder Beef",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R61.99",
                 "src": "/Burgers/b3.png"
 
@@ -30,7 +30,7 @@
             {
                 "id": 4,
                 "name": "Bacon & Cheese",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R70.99",
                 "src": "/Burgers/b4.png"
 
@@ -38,7 +38,7 @@
             {
                 "id": 5,
                 "name": "Burger & Fries",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Burgers/b5.png"
 
@@ -46,7 +46,7 @@
             {
                 "id": 6,
                 "name": "Cheese & Mustard",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Burgers/b6.png"
 
@@ -54,7 +54,7 @@
             {
                 "id": 7,
                 "name": "Sandwich Burger",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R53.99",
                 "src": "/Burgers/b7.jpg"
 
@@ -62,7 +62,7 @@
             {
                 "id": 8,
                 "name": "Cheese bool Burger",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R43.99",
                 "src": "/Burgers/b8.png"
 
@@ -70,7 +70,7 @@
             {
                 "id": 9,
                 "name": "Double Hamburger",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R78.99",
                 "src": "/Burgers/b9.png"
 
@@ -78,7 +78,7 @@
             {
                 "id": 10,
                 "name": "Burger Homley",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Burgers/b10.png"
 
@@ -86,7 +86,7 @@
             {
                 "id": 11,
                 "name": "Burger French Fries",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R37.99",
                 "src": "/Burgers/b11.png"
 
@@ -94,7 +94,7 @@
             {
                 "id": 12,
                 "name": "Burger Buzzy",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Burgers/b13.png"
 
@@ -109,7 +109,7 @@
             {
                 "id": 1,
                 "name": "Ear Solo",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R52.99",
                 "src": "/Proteins/p1.png"
 
@@ -117,7 +117,7 @@
             {
                 "id": 2,
                 "name": "Double Degarr",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R60.99",
                 "src": "/Proteins/p2.png"
 
@@ -125,7 +125,7 @@
             {
                 "id": 3,
                 "name": "Pounder Beef",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R61.99",
                 "src": "/Proteins/p3.png"
 
@@ -133,7 +133,7 @@
             {
                 "id": 4,
                 "name": "Sick Lickin'",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R70.99",
                 "src": "/Proteins/p4.png"
 
@@ -141,7 +141,7 @@
             {
                 "id": 5,
                 "name": "We Already Full",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R23.99",
                 "src": "/Proteins/p5.png"
 
@@ -149,7 +149,7 @@
             {
                 "id": 6,
                 "name": "Eat Jr",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R23.99",
                 "src": "/Proteins/p6.png"
 
@@ -157,7 +157,7 @@
             {
                 "id": 7,
                 "name": "Bag 'Em",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R53.99",
                 "src": "/Proteins/p7.png"
 
@@ -165,7 +165,7 @@
             {
                 "id": 8,
                 "name": "Toma Eat",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R43.99",
                 "src": "/Proteins/p5.png"
 
@@ -173,7 +173,7 @@
             {
                 "id": 9,
                 "name": "Weaet Too Much",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R18.99",
                 "src": "/Proteins/p9.png"
 
@@ -181,7 +181,7 @@
             {
                 "id": 10,
                 "name": "WeBite A Lot",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R93.99",
                 "src": "/Proteins/p10.png"
 
@@ -189,7 +189,7 @@
             {
                 "id": 11,
                 "name": "Mama Eat",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R37.99",
                 "src": "/Proteins/p11.png"
 
@@ -197,7 +197,7 @@
             {
                 "id": 12,
                 "name": "Big Mama Eat",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Proteins/p12.png"
 
@@ -212,7 +212,7 @@
             {
             "id": 1,
             "name": "Solo Dish",
-            "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+            "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
             "price": "R82.99",
             "src": "/Dishes/d.png"
 
@@ -220,7 +220,7 @@
             {
                 "id": 2,
                 "name": "Solo Dish Jr",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R60.99",
                 "src": "/Dishes/d2.png"
 
@@ -228,7 +228,7 @@
             {
                 "id": 3,
                 "name": "Dish Somerly",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R61.99",
                 "src": "/Dishes/d3.png"
 
@@ -236,7 +236,7 @@
             {
                 "id": 4,
                 "name": "Eat 't all",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R60.99",
                 "src": "/Dishes/d4.png"
 
@@ -244,7 +244,7 @@
             {
                 "id": 5,
                 "name": "Eat lyk King",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Dishes/d5.png"
 
@@ -252,7 +252,7 @@
             {
                 "id": 6,
                 "name": "You Can Finish",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Dishes/d6.png"
 
@@ -260,7 +260,7 @@
             {
                 "id": 7,
                 "name": "Who Cares",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R53.99",
                 "src": "/Dishes/d7.png"
 
@@ -268,7 +268,7 @@
             {
                 "id": 8,
                 "name": "She's Yours",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Dishes/d8.png"
 
@@ -276,7 +276,7 @@
             {
                 "id": 9,
                 "name": "I'm Home",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R78.99",
                 "src": "/Dishes/d9.png"
 
@@ -284,7 +284,7 @@
             {
                 "id": 10,
                 "name": "Help Me!!",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R93.99",
                 "src": "/Dishes/d10.png"
 
@@ -292,7 +292,7 @@
             {
                 "id": 11,
                 "name": "My Code Works!!",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R37.99",
                 "src": "/Dishes/d11.png"
 
@@ -300,7 +300,7 @@
             {
                 "id": 12,
                 "name": "Burger Buzzy",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/Dishes/dish3.png"
 
@@ -311,7 +311,104 @@
     {
         "id": 4,
         "name": "Desserts",
-        "data": [],
+        "data": [
+            {
+                "id": 1,
+                "name": "Eat Pizza",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R72.99",
+                "src": "/Desserts/d1.png"
+
+            },
+            {
+                "id": 2,
+                "name": "Another Pizza",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R40.99",
+                "src": "/Desserts/d2.png"
+
+            },
+            {
+                "id": 3,
+                "name": "Love Pizza",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R61.99",
+                "src": "/Desserts/d12.png"
+
+            },
+            {
+                "id": 4,
+                "name": "Uphi uLondy",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R20.99",
+                "src": "/Desserts/d4.png"
+
+            },
+            {
+                "id": 5,
+                "name": "Tasty Pizza",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R93.99",
+                "src": "/Desserts/d9.png"
+
+            },
+            {
+                "id": 6,
+                "name": "Nangu USneh",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R73.99",
+                "src": "/Desserts/d6.png"
+
+            },
+            {
+                "id": 7,
+                "name": "Pizza Boys",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R53.99",
+                "src": "/Desserts/d7.png"
+
+            },
+            {
+                "id": 8,
+                "name": "Pizza's Pizza",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R43.99",
+                "src": "/Desserts/d13.png"
+
+            },
+            {
+                "id": 9,
+                "name": "Mama pIZZA",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R78.99",
+                "src": "/Desserts/d9.png"
+
+            },
+            {
+                "id": 10,
+                "name": "We're Pizza",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R23.99",
+                "src": "/Desserts/d10.png"
+
+            },
+            {
+                "id": 11,
+                "name": "Akulalek Maw'nemali",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R97.99",
+                "src": "/Desserts/d11.png"
+
+            },
+            {
+                "id": 12,
+                "name": "Nansi ibhonasi",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
+                "price": "R79.99",
+                "src": "/Desserts/d12.png"
+
+            }
+        ],
         "src": "/Desserts/d1.png"
     },
     {
@@ -321,7 +418,7 @@
             {
                 "id": 1,
                 "name": "Eat Pizza",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R72.99",
                 "src": "/pizza/p1.png"
 
@@ -329,7 +426,7 @@
             {
                 "id": 2,
                 "name": "Another Pizza",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R40.99",
                 "src": "/pizza/p2.png"
 
@@ -337,7 +434,7 @@
             {
                 "id": 3,
                 "name": "Love Pizza",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R61.99",
                 "src": "/pizza/p12.png"
 
@@ -345,7 +442,7 @@
             {
                 "id": 4,
                 "name": "Uphi uLondy",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R20.99",
                 "src": "/pizza/p4.png"
 
@@ -353,7 +450,7 @@
             {
                 "id": 5,
                 "name": "Tasty Pizza",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R93.99",
                 "src": "/pizza/p5.png"
 
@@ -361,7 +458,7 @@
             {
                 "id": 6,
                 "name": "Nangu USneh",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R73.99",
                 "src": "/pizza/p6.png"
 
@@ -369,7 +466,7 @@
             {
                 "id": 7,
                 "name": "Pizza Boys",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R53.99",
                 "src": "/pizza/p7.png"
 
@@ -377,7 +474,7 @@
             {
                 "id": 8,
                 "name": "Pizza's Pizza",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R43.99",
                 "src": "/pizza/p5.png"
 
@@ -385,7 +482,7 @@
             {
                 "id": 9,
                 "name": "Mama pIZZA",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R78.99",
                 "src": "/pizza/p9.png"
 
@@ -393,7 +490,7 @@
             {
                 "id": 10,
                 "name": "We're Pizza",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R23.99",
                 "src": "/pizza/p10.png"
 
@@ -401,7 +498,7 @@
             {
                 "id": 11,
                 "name": "Akulalek Maw'nemali",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R97.99",
                 "src": "/pizza/p11.png"
 
@@ -409,7 +506,7 @@
             {
                 "id": 12,
                 "name": "Nansi ibhonasi",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R79.99",
                 "src": "/pizza/p13.png"
 
@@ -424,7 +521,7 @@
             {
                 "id": 1,
                 "name": "Solo Salad",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R22.99",
                 "src": "/Salads/sl1.png"
 
@@ -432,7 +529,7 @@
             {
                 "id": 2,
                 "name": "We Love Salad",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R30.99",
                 "src": "/Salads/sl2.png"
 
@@ -440,7 +537,7 @@
             {
                 "id": 3,
                 "name": "Asidleni!!",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R21.99",
                 "src": "/Salads/sl3.png"
 
@@ -448,7 +545,7 @@
             {
                 "id": 4,
                 "name": "Sadla Ebsuku",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R50.99",
                 "src": "/Salads/sl4.png"
 
@@ -456,7 +553,7 @@
             {
                 "id": 5,
                 "name": "Ngaze Ngadla!!!",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R23.99",
                 "src": "/Salads/sl5.png"
 
@@ -464,7 +561,7 @@
             {
                 "id": 6,
                 "name": "Salah Salad",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R13.99",
                 "src": "/Salads/sl6.png"
 
@@ -472,7 +569,7 @@
             {
                 "id": 7,
                 "name": "Blueesh Salad",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R53.99",
                 "src": "/Salads/sl7.png"
 
@@ -480,7 +577,7 @@
             {
                 "id": 8,
                 "name": "Nacsy Salad",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R43.99",
                 "src": "/Salads/sl5.png"
 
@@ -488,7 +585,7 @@
             {
                 "id": 9,
                 "name": "Salad esandleni",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R78.99",
                 "src": "/Salads/sl9.png"
 
@@ -496,7 +593,7 @@
             {
                 "id": 10,
                 "name": "We Eat",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R33.99",
                 "src": "/Salads/sl10.png"
 
@@ -504,7 +601,7 @@
             {
                 "id": 11,
                 "name": "Salad Jr",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R37.99",
                 "src": "/Salads/sl11.png"
 
@@ -512,7 +609,7 @@
             {
                 "id": 12,
                 "name": "I'm Hungry",
-                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, obcaecati aliquid sunt impedit eveniet.",
+                "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat aperiam, .",
                 "price": "R23.99",
                 "src": "/Salads/sl13.png"
 

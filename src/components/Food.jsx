@@ -33,19 +33,17 @@ function Food({state}) {
                 
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6 gap-6 p-3">
+            <div className="flex flex-col items-center xsm:grid overflow-auto h-[400px] w-full sm:h-[600px] xsm:grid-cols-2 md:grid-cols-3 lg:h-auto lg:grid-cols-4 2xl:grid-cols-6 gap-6 p-3">
                 {
-                    
-                        
-                        slugFilteredState.map((stat) => (
+                       
+                    slugFilteredState.map((stat) => (
                                 
-                            stat.data.map((da) => (
-                                <Card key={da.id} name={da.name} descr={da.descr} src={da.src} price={da.price} href={da.name}/>
-                            ))
-                               
+                        stat.data.map((da) => (
+                            <Card key={da.id} name={da.name} descr={da.descr} src={da.src} price={da.price} href={da.name}/>
                         ))
-                         
-                    
+                               
+                    ))
+                                            
                 }
             </div>
             
