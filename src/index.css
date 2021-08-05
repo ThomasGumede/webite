@@ -16,7 +16,7 @@
 
 @layer components {
     .btn {
-        @apply py-2 px-6 bg-[#f3bc58] font-medium text-gray-800 rounded-full text-base w-max transition-all duration-500 ease-in hover:border-2 hover:border-[#f3bc58] hover:bg-transparent
+        @apply py-2 px-6 bg-[#f3bc58] font-medium text-gray-800 rounded-full text-base w-max transition-all duration-500 ease-in hover:shadow-xl hover:bg-white
     }
 
     .foodnavbtn {

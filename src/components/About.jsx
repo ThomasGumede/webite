@@ -1,10 +1,20 @@
-import DishItems from "./DishItems"
+import { useContext } from "react"
 
-const About = ({state}) => {
+import DishItems from "./SharedComponets/DishItems"
+import {stateContext} from '../stateManager/stateContext' //importing context from global state manager
+
+const About = () => {
+
+    const state = useContext(stateContext) //state from stateManager
+
     return (
         <div className='space-y-6 my-16 md:my-20 flex flex-col sm:flex-row space-x-8 justify-between items-center sm:space-y-0 lg:m-20'>
-            <img src="/Salads/Chef.jpg" alt="" className='w-[300px] h-[300px] md:w-[500px] md:h-[500px] rounded-2xl sm:rounded-full' />
-            <div className="space-y-6 sm:w-[300px] md:w-[500px]">
+            <div data-aos='zoom-in' data-aos-duration='1000'>
+               <img src="/Salads/Chef.jpg" alt="" className='w-[300px] h-[300px] md:w-[500px] md:h-[500px] rounded-2xl sm:rounded-full' /> 
+            </div>
+            
+
+            <div data-aos='zoom-in' data-aos-duration='1000' className="space-y-6 sm:w-[300px] md:w-[500px]">
                 <h2>
                     We are more than multiple Services
                 </h2>

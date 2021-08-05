@@ -1,74 +1,28 @@
-import { HiOutlineArrowNarrowRight, HiOutlineArrowNarrowLeft } from 'react-icons/hi'
-import { Swiper, SwiperSlide } from 'swiper/react';
-import SwiperCore, { Navigation } from 'swiper';
-import 'swiper/swiper.min.css'
-import Card from './Card';
+import { useContext } from "react"
+import {  SwiperSlide } from 'swiper/react';
 
-const PopularFood = ({state}) => {
+import HorizontalSlider from './SharedComponets/HorizontalSlider'
+import Card from './SharedComponets/Card';
+import {stateContext} from '../stateManager/stateContext'
 
-    SwiperCore.use([Navigation])
+const PopularFood = () => {
+    const state = useContext(stateContext)
 
     return (
-        <div className='space-y-6 w-full my-16 md:my-32'>
-            <div className="flex items-center justify-between">
-                <h2>Popular Dishes</h2>
-                <div className="flex items-center space-x-6">
-                    <HiOutlineArrowNarrowLeft className='btnIcon prev' />
-                    <HiOutlineArrowNarrowRight className='btnIcon next' />
-                </div>
-            </div>
-
-            <Swiper
-                 spaceBetween={1}
-                 slidesPerView={1}
-                 navigation={{
-                     prevEl: '.prev',
-                     nextEl: '.next'
-                 }}
-                 breakpoints={{
-                    540: {
-                        slidesPerView: 2,
-                        spaceBetween: 3
-                    },
-
-                    1000: {
-                        slidesPerView: 3
-                    },
-
-                    1200: {
-                        slidesPerView: 4
-                    },
-
-                    1400: {
-                        slidesPerView: 5
-                    },
-
-                    1700: {
-                        slidesPerView: 5
-                    },
-
-                    1800: {
-                        slidesPerView: 6
-                    }
-                 }}
-            >
-                
-                 {
-                     state.map((stat) => (
+        
+        <HorizontalSlider title="Popular Dishes">
+            {
+                state.map((stat) => (
                         
-                            stat.data.map((da) => (
-                                <SwiperSlide key={da.id}>
-                                    <Card name={da.name} descr={da.descr} src={da.src} price={da.price} href={da.name}/>
-                                </SwiperSlide>
-                            ))
+                    stat.data.map((da) => (
+                        <SwiperSlide key={da.id}>
+                            <Card anim='zoom-in' name={da.name} descr={da.descr} src={da.src} price={da.price} href={da.name}/>
+                        </SwiperSlide>
+                    ))
                          
-                     ))
-                 }
-
-            </Swiper>
-            
-            
-        </div>
+                ))
+            }
+        </HorizontalSlider>
     )
 }
 

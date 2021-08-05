@@ -1,6 +1,6 @@
 import {useState} from 'react'
 
-import NavItems from "./NavItems";
+import NavItems from "./SharedComponets/NavItems";
 import { BiBasket } from 'react-icons/bi'
 import {CgMenuRight, CgMenuLeft} from 'react-icons/cg'
 

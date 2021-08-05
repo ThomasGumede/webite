@@ -1,10 +1,10 @@
-const Card = ({name, src, descr, price, href}) => {
+const Card = ({name, src, descr, price, href, anim}) => {
     return (
-        <div className='block w-[240px] sm:w-[290px] m-2 bg-white cursor-pointer group rounded-2xl text-center h-[360px] space-y-6 hover:shadow-xl p-2'>
+        <div data-aos={`${anim}`} className='block w-[240px] sm:w-[290px] m-2 bg-white cursor-pointer group rounded-2xl text-center h-[360px] space-y-6 hover:shadow-xl p-2'>
             <div className="flex flex-col items-center">
                 <img src={`${src}`} alt="" className='w-[120px] h-[110px]'/>
             </div>
-            <h3 className="text-xl text-[#472b20] font-bold font-sans2">
+            <h3  className="text-xl text-[#472b20] font-bold font-sans2">
                 {name}
             </h3>
             <p className="text-sm text-gray-600">

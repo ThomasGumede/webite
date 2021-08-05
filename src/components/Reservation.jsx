@@ -1,7 +1,7 @@
 const Reservation = () => {
     return (
         <div className='space-y-6 w-full sm:flex items-center justify-between my-11 p-4 sm:p-11 md:p-20'>
-            <div className="text-start space-y-7 sm:w-[600px]">
+            <div data-aos="fade-down" className="text-start space-y-7 sm:w-[600px]">
                 <h2>
                     Do You Have Any Dinner Plan Today? Reserve Your Table
                 </h2>
@@ -14,7 +14,7 @@ const Reservation = () => {
                 </div>
             </div>
             
-            <div>
+            <div data-aos="fade-up">
                 <img src="/Dishes/d2.png" alt="" className='sm:w-[300px] sm:h-[300px] md:w-auto md:h-auto'/>
             </div>
         </div>

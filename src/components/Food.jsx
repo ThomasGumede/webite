@@ -1,19 +1,16 @@
-import { useState } from "react"
+import { useState, useContext } from "react"
 
-import Card from "./Card"
+import Card from "./SharedComponets/Card"
+import {stateContext} from '../stateManager/stateContext'
 
-function Food({state}) {
+function Food() {
 
+    const state = useContext(stateContext)
+
+    //first: slug state for pagination or for displaying different food based on user click
     const [slug, setSlug] = useState('Burgers')
 
-    // useEffect(() => (
-    //     onSetSlug
-    // ), [slug])
-
-    // const onSetSlug = (params) => {
-    //     setSlug(params)
-    // }
-
+    //Creates ana array of food based on slug provided by the user
     const slugFilteredState = state.filter((stat) => stat.name === slug)
   
  
@@ -33,7 +30,7 @@ function Food({state}) {
                 
             </div>
 
-            <div className="flex flex-col items-center xsm:grid overflow-auto h-[400px] w-full sm:h-[600px] xsm:grid-cols-2 md:grid-cols-3 lg:h-auto lg:grid-cols-4 2xl:grid-cols-6 gap-6 p-3">
+            <div data-aos='zoom-out' data-aos-duration='2000' className="flex flex-col items-center xsm:grid overflow-auto h-[400px] w-full sm:h-[600px] xsm:grid-cols-2 md:grid-cols-3 lg:h-auto lg:grid-cols-4 2xl:grid-cols-5 gap-6 p-3">
                 {
                        
                     slugFilteredState.map((stat) => (
