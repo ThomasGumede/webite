@@ -9,6 +9,8 @@ import Navbar from "./components/Navbar";
 import PopularFood from "./components/PopularFood";
 import Reservation from './components/Reservation';
 import Chefs from "./components/Chefs";
+import Testemonials from "./components/Testemonials";
+import Footer from "./components/Footer";
 
 function App() {
 
@@ -25,7 +27,9 @@ function App() {
         <About />
         <Food />
         <Reservation />
+        <Testemonials />
         <Chefs />
+        <Footer />
       </div>
     </FoodList>
     

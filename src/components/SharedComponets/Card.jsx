@@ -4,7 +4,7 @@ const Card = ({name, src, descr, price, href, anim}) => {
             <div className="flex flex-col items-center">
                 <img src={`${src}`} alt="" className='w-[120px] h-[110px]'/>
             </div>
-            <h3  className="text-xl text-[#472b20] font-bold font-sans2">
+            <h3 className="text-xl text-[#472b20] font-bold font-sans2">
                 {name}
             </h3>
             <p className="text-sm text-gray-600">

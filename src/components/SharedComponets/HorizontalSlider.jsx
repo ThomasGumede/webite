@@ -1,4 +1,4 @@
-import { HiOutlineArrowNarrowRight, HiOutlineArrowNarrowLeft } from 'react-icons/hi'
+import { BsArrowRightShort, BsArrowLeftShort } from 'react-icons/bs'
 import {Swiper } from 'swiper/react';
 import SwiperCore, { Navigation } from 'swiper';
 import 'swiper/swiper.min.css'
@@ -13,19 +13,23 @@ const HorizontalSlider = ({ children, title }) => {
             <div className="flex items-center justify-between">
                 <h2>{title}</h2>
                 <div className="flex items-center space-x-6">
-                    <HiOutlineArrowNarrowLeft className='btnIcon prev' />
-                    <HiOutlineArrowNarrowRight className='btnIcon next' />
+                    <BsArrowLeftShort className='btnIcon prev' />
+                    <BsArrowRightShort className='btnIcon next' />
                 </div>
             </div>
 
             <Swiper
                  spaceBetween={1}
-                 slidesPerView={1.3}
+                 slidesPerView={1.2}
                  navigation={{
                      prevEl: '.prev',
                      nextEl: '.next'
                  }}
                  breakpoints={{
+                    400: {
+                        slidesPerView: 1.5,
+                        spaceBetween: 3
+                    },
                     540: {
                         slidesPerView: 2,
                         spaceBetween: 3

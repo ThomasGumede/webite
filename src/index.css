@@ -10,7 +10,7 @@
         @apply bg-[#fffcf7] font-sans box-border w-full 
     }
     h2 {
-        @apply font-bold font-sans2 text-3xl text-gray-900 md:text-5xl
+        @apply font-semibold font-sans2 text-3xl text-gray-900 md:text-5xl
     }
 }
 
@@ -20,7 +20,7 @@
     }
 
     .foodnavbtn {
-        @apply py-2 px-6 rounded-full md:text-lg border-2 border-[#f3bc58] transition-all duration-500 ease-in hover:border-0 hover:bg-[#f3bc58]
+        @apply py-2 px-6 rounded-full md:text-lg border-2 border-[#f3bc58] transition-all duration-500 ease-in hover:shadow-xl hover:bg-[#f3bc58]
     }
 
 
@@ -37,7 +37,7 @@
     }
 
     .btnIcon {
-        @apply hidden sm:flex items-center justify-center w-[50px] h-[50px] text-gray-700 text-2xl home rounded-full hover:bg-[#f3bc58] transition-all duration-500 ease-in
+        @apply hidden sm:flex items-center justify-center w-[40px] h-[40px] text-gray-700 text-xl home rounded-full hover:bg-[#f3bc58] transition-all duration-500 ease-in
     }
 
     .home {

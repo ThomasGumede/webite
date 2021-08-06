@@ -7,11 +7,11 @@ const Home = () => {
     const state = useContext(stateContext)
 
     return (
-        <div className='relative space-y-6 w-full sm:flex items-center justify-between my-16'>
+        <div id='#home' className='relative space-y-6 w-full sm:flex items-center justify-between my-16'>
             <div data-aos='zoom-in' data-aos-duration='1000' className="text-start space-y-5 md:w-[500px]">
-                <h1 className="font-bold font-sans2 text-3xl text-gray-900 md:text-5xl">
+                <h2>
                     We Serve The Food You Love
-                </h1>
+                </h2>
                 <p className="text-sm text-gray-400 md:text-base">
                     This is type of restaurant which typically serves 
                     food and drinks in addition to light 

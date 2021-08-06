@@ -1,11 +1,8 @@
-import { useContext } from "react"
-
 import DishItems from "./SharedComponets/DishItems"
-import {stateContext} from '../stateManager/stateContext' //importing context from global state manager
+
 
 const About = () => {
 
-    const state = useContext(stateContext) //state from stateManager
 
     return (
         <div className='space-y-6 my-16 md:my-20 flex flex-col sm:flex-row space-x-8 justify-between items-center sm:space-y-0 lg:m-20'>
@@ -25,11 +22,13 @@ const About = () => {
                 </p>
 
                 <div className="grid grid-cols-2">
-                    {
-                        state.map((stat) => (
-                            <DishItems key={stat.id} name={stat.name} src={stat.src} href={state.name}/>
-                        ))
-                    }
+                    <DishItems name='Order online' src='/services/online.png' href='food'/>
+                    <DishItems name='Pre-reservation' src='/services/reserve.png' href='food'/>
+                    <DishItems name='24/7 Service' src='/services/247.png' href='food'/>
+                    <DishItems name='Foodie place' src='/services/foody.png' href='food'/>
+                    <DishItems name='Clean Kitchen' src='/services/clean.png' href='food'/>
+                    <DishItems name='Super chef' src='/services/chef.png' href='food'/>
+                     
                 </div>
                 <div className="block">
                     <a href="#home" className="btn">About Us</a>
