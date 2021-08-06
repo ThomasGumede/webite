@@ -8,7 +8,7 @@ const Home = () => {
 
     return (
         <div id='#home' className='relative space-y-6 w-full sm:flex items-center justify-between my-16'>
-            <div data-aos='zoom-in' data-aos-duration='1000' className="text-start space-y-5 md:w-[500px]">
+            <div data-aos='zoom-in' data-aos-duration='1000' className="text-start space-y-5 sm:w-[500px]">
                 <h2>
                     We Serve The Food You Love
                 </h2>
