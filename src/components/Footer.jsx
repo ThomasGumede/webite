@@ -12,9 +12,6 @@ const Footer = () => {
 
             <hr />
 
-                
-            
-
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-6 md:grid-cols-5">
 
                 <div className="space-y-6">
@@ -22,7 +19,7 @@ const Footer = () => {
                         Join Our Newsletter
                     </h1>
                     <div className="flex flex-col space-y-4 md:space-y-0  lg:flex-row lg:items-center space-x-4">
-                        <input data-aos='fade-up' type="text" name="text" id="" placeholder='Enter your email' className='outline-none text-sm border-b-[2px] border-gray-400 px-2 w-[160px]' />
+                        <input data-aos='fade-up' type="text" name="text" id="" placeholder='Enter your email' className='bg-transparent outline-none text-sm border-b-[2px] border-gray-400 px-2 w-[160px]' />
                         <BsArrowRightShort data-aos='fade-up' data-aos-delay='300' className='w-[30px] h-[30px] home rounded-full hover:animate-bounce' />
                     </div>
                     <div className="flex items-center space-x-3">
