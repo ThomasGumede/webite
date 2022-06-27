@@ -1,3 +1,11 @@
+# Description
+
+Simple fast food landing-page website built using ReactJS & JavaScript. use the link below to view live website hosted on Netlify.
+
+## Resources Used
+- React Context API
+- swaggerjs for sliders
+
 # WeBite
 
 <p>
